@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/YujiTech/gamex)
   ![GitHub stars](https://img.shields.io/github/stars/YujiTech/gamex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/YujiTech/gamex?style=social)
-[![Facebook Follow](https://img.shields.io/facebook/follow/YujiTech_?style=social)](https://facebook.com/intent/follow?screen_name=RenceMartinez_) 
+[![Twitter Follow](https://img.shields.io/facebook/follow/YujiTech_?style=social)](https://twitter.com/intent/follow?screen_name=RenceMartinez_) 
   [![YouTube Video Views](https://img.shields.io/youtube/views/FAo8xeq4NKw?style=social)](https://youtu.be/FAo8xeq4NKw)
 
   <br />
@@ -13,7 +13,7 @@
 
   Unigine is a fully responsive esports gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://YujiTech.github.io/unigine/"><strong>➥ Live Demo</strong></a>
+  <a href=" https://yujitech.github.io/UnigineX/ "><strong>➥ Live Demo</strong></a>
 
 </div>
 

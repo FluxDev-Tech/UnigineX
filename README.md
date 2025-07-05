@@ -13,7 +13,7 @@
 
   Unigine is a fully responsive esports gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://unigine-e459sjcr7-yujitechs-projects.vercel.app"><strong>➥ Live Demo</strong></a>   
+  <a href="https://unigine-x.vercel.app/"><strong>➥ Live Demo</strong></a>   
 
 </div>
 
@@ -36,13 +36,13 @@ To run **Unigine** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/YujiTech/unigine.git
+sudo git clone https://github.com/FluxDev-Tech/UnigineX.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/YujiTech/unigine.git
+git clone https://github.com/FluxDev-Tech/UnigineX.git
 ```
 
 ### Contact
